@@ -21,4 +21,4 @@
 | <a href="https://github.com/luizlmelo?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizlmelo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="luizlmelo github stats"/></a> | <a href="https://github.com/luizlmelo?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlmelo&layout=compact&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
 
-<a href="https://www.linkedin.com/in/luizmelomb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luizlmelo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
