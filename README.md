@@ -1,6 +1,6 @@
 ## Luiz Melo
 
-**Um eterno estudante, curioso, persistente, lógico, adaptável e entusiasta por tecnologias**
+**Um eterno estudante e entusiasta de tecnologias**
 
 - 🎓 Atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> - Faculdade Impacta
   
